@@ -52,24 +52,4 @@ CVPR 2021.
 }
 </pre></div>
 
-## FAQs
-
-**Q1**: Can you provide image pixels?
-
-**A1**: We do not own any of the images in the dataset and hence cannot legally provide them to you. The owner of an image can choose to delete it at anytime, in which case the image will no longer be available. Due to this, unfortunately, some images in the dataset will be lost over time, and we are unable to help with this issue.
-###
-
-**Q2**: Is it normal that a subset of images cannot be retrieved from the provided URLs?
-
-**A2**: Yes. See Q1.
-
-**Q3**: Is CC12M an “expanded” CC3M?
-
-**A3**: No, CC12M is on purpose designed for vision-and-language pre-training, and meant to be disjoint from CC3M. CC3M is cleaner and more appropriate for fine-tuning, but can be used in conjunction with CC12M for pre-training, as illustrated in our paper. Coincidentally, their intersection is found to be non-zero — approximately 63K URLs.
-
-## Contact Us
-
-If you have a question not provided in the FAQs above, please create an issue in this repository. 
-
-If you would like to share feedback or report concerns, please email us at conceptual-captions@google.com.
 
