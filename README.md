@@ -1,4 +1,4 @@
-# Conceptual 12M
+# Project
 
 <p align="center">
   <img width="192" height="312" src="/images/cc12m_1.jpg">
